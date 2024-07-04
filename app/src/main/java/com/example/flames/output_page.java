@@ -24,6 +24,8 @@ public class output_page extends AppCompatActivity {
         relationship.setTextColor(this.getResources().getColor(R.color.white));
 
     }
+
+    //change
     public void onClickOfTryAgainButton(View v){
         Intent i=new Intent(this,input_page.class);
         startActivity(i);

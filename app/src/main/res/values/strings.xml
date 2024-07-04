@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flames</string>
+
+    <string name="enter_name1">Enter your Name</string>
+    <string name="enter_name2">Enter their Name</string>
+    <string name="find">FIND</string>
+    <string name="try_again">TRY AGAIN</string>
+</resources>
